@@ -1,0 +1,3 @@
+{ "event":{"SrcIp": "192.168.140.2", "DestIp": "10.10.14.1", "SrcPt": 3128.0, "DestPt": 3128.0, "Date": 1622214514.7672024, "Proto": "TCP", "Bytes": 82, "tcp_flags": 2},
+"date":"2021-05-28 17:08:34","results":{"event_id": "b45fcc34-c3c1-11eb-ae35-005056aac7ea", "label": "Normal", "attack_probability": 0.0},
+"networkName": "Core Network"}
